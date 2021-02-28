@@ -1,7 +1,6 @@
 ruby lib/scraper.rb
 require 'nokogiri'
 require 'open-uri'
-require 'pry'
 
 require_relative './course.rb'
 
